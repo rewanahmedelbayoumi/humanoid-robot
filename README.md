@@ -1,7 +1,5 @@
 # Humanoid Robot — 170 cm Prototype
 
-A 170 cm tall humanoid robot prototype, developed in a 21-day team project.
-
 ## Goals
 - Final height: **170 cm** from floor to top of head.
 - Maintain low mass and a low center of gravity, close to the base.
