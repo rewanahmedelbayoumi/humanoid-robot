@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+# Build artifacts
+build/
+dist/
+*.log
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+# CAD temp files
+*.bak
+*.tmp
